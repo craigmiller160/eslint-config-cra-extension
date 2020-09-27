@@ -5,5 +5,8 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint-config-react-app": ">=5.2.1"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }

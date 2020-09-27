@@ -2,5 +2,8 @@
   "name": "@craigmiller160/cra-eslint-extension",
   "version": "1.0.0-beta",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-config-react-app": ">=5.2.1"
+  }
 }

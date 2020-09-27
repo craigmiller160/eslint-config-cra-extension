@@ -1,5 +1,5 @@
 {
-  "name": "@craigmiller160/cra-eslint-extension",
+  "name": "@craigmiller160/eslint-config-cra-extension",
   "version": "1.0.0-beta",
   "main": "index.js",
   "license": "MIT",

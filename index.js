@@ -1,5 +1,5 @@
 /*
- *     Auth Management UI
+ *     lint-config-cra-extension
  *     Copyright (C) 2020 Craig Miller
  *
  *     This program is free software: you can redistribute it and/or modify

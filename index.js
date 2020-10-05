@@ -46,9 +46,7 @@ const tsRulesWithErrors = Object.entries(tsOverride.rules)
     .reduce(ruleErrorReducer, {});
 
 module.exports = {
-    extends: [
-        'react-app'
-    ],
+    ...config,
     rules: {
         ...rulesWithErrors,
         'semi': ['error', 'always'],

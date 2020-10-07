@@ -4,3 +4,4 @@ node_modules
 *.iml
 .yalc
 yalc.lock
+yarn-error.log
